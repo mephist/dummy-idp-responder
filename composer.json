@@ -1,0 +1,11 @@
+{
+    "require": {
+        "lightsaml/lightsaml": "^2.1",
+        "simplesamlphp/saml2": "^4.2",
+        "phpseclib/phpseclib": "^3.0"
+    },
+    "files": [
+		"src/IdentityProvider.php",
+		"src/IdentityProviderResponder/php"
+    ]
+}
